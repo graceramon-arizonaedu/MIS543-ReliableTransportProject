@@ -1,0 +1,11 @@
+MIS 543 Online - Project 2 - Reliable Transport Protocol
+
+In this folder you'll find the sample receiver, code for computing and
+validating checksums, as well as example sender code.
+
+Quick! What do I have to write?
+===============================
+Sender.py is the file in which you will implement your reliable sender. You do
+not need to modify any other included files to complete this project. Sender.py 
+provides all the scaffolding you need to handle the command line arguments we 
+will use in t
